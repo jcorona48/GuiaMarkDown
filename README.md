@@ -1,10 +1,11 @@
 # Guia para aprender MarkDown
 Con este repositorio aprenderas lo basico de MarkDown como:
-* Tipografias
-* Enlaces
-* Imagenes y Badges
-* Tabla
-* Emojis
+* [Tipografias](Introduccion.md)
+* [Enlaces](Enlaces.md)
+* [Listas](Listas.md)
+* [Imagenes y Badges](imagenes-Badges.md)
+* [Tabla](Tablas.md)
+* [Emojis](Lineas.md)
 
 ![Saludando](https://media.tenor.com/Aujc9Y0s2tkAAAAC/saludo-hola.gif "Saludos desde MarkDown")
 
