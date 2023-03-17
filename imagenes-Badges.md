@@ -1,5 +1,5 @@
 # Imagenes en MarkDown
-Para colocar las imagenes debes colocar el signo de ! seguido de los pasos para un enlace
+Este cambio lo hizo bejarand cabas
 
 ~~~
 ![Saludando](https://media.tenor.com/Aujc9Y0s2tkAAAAC/saludo-hola.gif)
